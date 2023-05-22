@@ -4,7 +4,8 @@ const Projects = () => {
     return (
         <div>
             <h1>Projects</h1>
-            {/* Add your project details here */}
+            <div>Project 1</div>
+            <div>Project 2</div>
         </div>
     );
 };
